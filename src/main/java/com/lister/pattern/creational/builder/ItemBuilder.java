@@ -2,11 +2,7 @@ package com.lister.pattern.creational.builder;
 
 import com.lister.pattern.creational.builder.item.ChickenBurger;
 import com.lister.pattern.creational.builder.item.Coke;
-import com.lister.pattern.creational.builder.item.Item;
 import com.lister.pattern.creational.builder.item.Pepsi;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class ItemBuilder {
 
